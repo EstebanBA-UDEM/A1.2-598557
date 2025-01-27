@@ -27,4 +27,4 @@ La base de datos cuenta con la siguiente información:
 
 - [HTML](./A1_2-598557.html)
 - [Jupyter Notebook](./A1_2-598557.ipynb)
-- [Base de Datos](./A1.2FelicidadyGDP.csv)
+- [Base de Datos](./A1.2%20Felicidad%20y%20GDP.csv)
